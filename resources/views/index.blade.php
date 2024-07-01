@@ -35,6 +35,8 @@
                     <input type="text" id="active" name="active" placeholder="Enter status" required>
                 </div>
             </div>
+
+            
             <div class="row">
                 <input type="submit" value="Submit">
             </div>
